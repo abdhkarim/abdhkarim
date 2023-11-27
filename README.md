@@ -8,15 +8,27 @@
 <h3 align="center">Un simple étudiant autodidacte !</h3>
 
 <br/>
+<div align="center">
+ 
+ 🔭 Je travail actuellement sur un projet **TOP SECRET !🛑**
+ 
+ 🌱 J'apprends actuellement de mon côté à me developper en cybersécurité et en développement web avec des outils comme **Kali Linux, , Wireshark** et j'en passe...
 
-          <div align="center">
-             🔭 Je travail actuellement sur plusieurs projet (dont un TOP SECRET)
-             
-             🌱 J'apprends actuellement de mon côté à me developper en cybersécurité **Kali Linux, , Tailwind, React Native Expo**
-            
-            💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... or autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
-            
-            ⚡ Sinon j'aime **Jouer aux échecs (+600 élos - je suis a peine debutant...), jouer à FIFA, au foot et coder**
+💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... or autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
+
+⚡ Sinon j'aime **Jouer aux échecs (+600 élos - je suis a peine debutant...), jouer à FIFA, au foot et coder**
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" />
+  </a>
+  <a href="https://www.linkedin.com/in/karim-abdallah-0b892b1b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/abdhkarim" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
           
-          </div>
-
