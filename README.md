@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**abdhkarim/abdhkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abdhkarim.abdhkarim" />
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous!+👋;+Je+Suis+Abdallah+Karim!;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Un simple étudiant autodidacte !</h3>
+
+<br/>
+
+<div align="center">
+ 🔭 Je travail actuellement sur plusieurs projet (dont un TOP SECRET)
+ 
+ 🌱 J'apprends actuellement de mon côté à me developper en cybersécurité **Kali Linux, , Tailwind, React Native Expo**
+
+💬 Ask me about **Node.js, React, C, C++, Python... or anything [here](https://github.com/abdhkarim/abdhkarim/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+
