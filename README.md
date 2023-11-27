@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abdhkarim.abdhkarim" />
 
 <h1 align="center">
@@ -16,8 +14,8 @@
  
  🌱 J'apprends actuellement de mon côté à me developper en cybersécurité **Kali Linux, , Tailwind, React Native Expo**
 
-💬 Ask me about **Node.js, React, C, C++, Python... or anything [here](https://github.com/abdhkarim/abdhkarim/issues)**
+💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... or autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Sinon j'aime **Jouer aux échecs (+600 élos - je suis a peine debutant...), jouer à FIFA, au foot et coder**
 
 
