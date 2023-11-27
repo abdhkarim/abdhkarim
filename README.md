@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous!+👋;+Je+Suis+Abdallah+Karim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+À+Tous!+👋;+Je+Suis+Abdallah+Karim!;" />
 </h1>
 
 <h3 align="center">Un simple étudiant autodidacte !</h3>
