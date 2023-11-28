@@ -12,11 +12,11 @@
  
  🔭 Je travail actuellement sur un projet **TOP SECRET 🛑**
  
- 🌱 J'apprends actuellement de mon côté à me developper en cybersécurité et en développement web avec des outils comme **Kali Linux, Wireshark** et j'en passe...
+ 🌱 J'apprends actuellement de mon côté à développer mes compétences en cybersécurité avec des outils comme **Kali Linux, Wireshark** et en développement web avec plusieurs langages tels que le **React, le JavaScript et j'en passe** 
  <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
-💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... ou autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
+💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python... ou autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
 
 ⚡ **Jouer aux échecs (+600 élos... je suis a peine debutant soyez indulgents !), jouer à FIFA, au foot et coder**
 
@@ -61,10 +61,17 @@
             <img src="https://skillicons.dev/icons?i=vscode,matlab,postman,blender,github,git,ai,linux" />
         </div>
 
-  <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdhkarim/abdhkarim/output/github-contribution-grid-snake.svg" />
+<br>  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
   
-        
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdhkarim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdhkarim&theme=radical&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
+  <br>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhkarim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> <br>
+  
+</div>
+
 
