@@ -16,9 +16,9 @@
  <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
-💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... or autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
+💬 Si vous avez des questions à propos de pas mal de projets avec **Node.js, React, C, C++, Python... ou autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
 
-⚡ Sinon j'aime **Jouer aux échecs (+600 élos... je suis a peine debutant soyez indulgents !), jouer à FIFA, au foot et coder**
+⚡ **Jouer aux échecs (+600 élos... je suis a peine debutant soyez indulgents !), jouer à FIFA, au foot et coder**
 
  </div>
 
@@ -34,9 +34,37 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Autres ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,postman,photoshop" /><br>
-</div>
+<h3 align="left"> Langages de programmation <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,bash,tailwind,git,r" />
+        </div>
+<h3 align="left"> Développement de Front-end <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,js,figma" />
+        </div>
+<h3 align="left"> Développement de Back-end <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=react,py,nodejs,express,nginx" />
+        </div>
+<h3 align="left"> Développement de Base de données <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=mysql,php,mongodb" />
+        </div>
+<h3 align="left"> Framework <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=django,laravel" />
+        </div>
+<h3 align="left"> Logiciels <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=vscode,matlab,postman,blender,github,git,ai,linux" />
+        </div>
+
+  <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdhkarim/abdhkarim/output/github-contribution-grid-snake.svg" />
+  
+        
+
