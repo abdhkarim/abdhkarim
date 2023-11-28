@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
  
- 🔭 Je travail actuellement sur un projet **TOP SECRET 🛑**
+ 🔭 Actuellement sur un projet **TOP SECRET 🛑**
  
  🌱 J'apprends actuellement de mon côté à développer mes compétences en cybersécurité avec des outils comme **Kali Linux, Wireshark** et en développement web avec plusieurs langages tels que le **React, le JavaScript et j'en passe** 
  <br>
