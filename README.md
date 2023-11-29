@@ -16,12 +16,11 @@
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
-💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python... ou autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
-
 ⚡ **Jouer aux échecs (+600 élos... je suis a peine debutant soyez indulgents !), jouer à FIFA, au foot et coder**
 
  </div>
-
+ 
+💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python... ou autre c'est [ici](https://github.com/abdhkarim/abdhkarim/issues)**
  <div align="center"> 
   <a href="mailto:karimabdallah-pro@outlook.fr">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
