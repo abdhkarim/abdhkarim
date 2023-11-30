@@ -46,7 +46,7 @@
         </div>
 <h3 align="left"> Développement de Back-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,py,nodejs,express,nginx" />
+            <img src="https://skillicons.dev/icons?i=py,nodejs,express,nginx" />
         </div>
 <h3 align="left"> Développement de Base de données <h3>
         <div align="left">
