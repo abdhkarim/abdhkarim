@@ -20,7 +20,7 @@
 
  </div> <br>
  
-<div align="center">💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python ou autre ici ↓ ↓ ↓  </div>
+<div align="center">💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python ou  ↓ ↓ ↓ autre ici ↓ ↓ ↓  </div>
 <br>
  <div align="center"> 
   <a href="mailto:karimabdallah-pro@outlook.fr">
