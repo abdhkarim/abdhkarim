@@ -12,7 +12,7 @@
  
  🔭 Actuellement sur un projet **TOP SECRET 🛑**
  
- 🌱 J'apprends actuellement de mon côté à développer mes compétences en cybersécurité avec des outils comme **Kali Linux, Wireshark** et en développement web avec plusieurs langages tels que le **React, le JavaScript et j'en passe** 
+ 🌱 J'apprends actuellement de mon côté à développer mes compétences en cybersécurité avec pas mal d'outils comme **... (un magicien ne devoile jamais ses secrets)** et en développement web avec plusieurs langages tels que le **React, le JavaScript et j'en passe** 
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
