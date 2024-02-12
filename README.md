@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abdhkarim.abdhkarim" />
+
 
 <h1 align="center">
   <h1 align="center">
