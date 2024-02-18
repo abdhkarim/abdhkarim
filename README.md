@@ -42,11 +42,11 @@
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github,js,figma" />
+            <img src="https://skillicons.dev/icons?i=react,html,css,github,js,figma" />
         </div>
 <h3 align="left"> Développement de Back-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=py,nodejs,express,nginx" />
+            <img src="https://skillicons.dev/icons?i=py,nodejs,express,nginx,mongodb" />
         </div>
 <h3 align="left"> Développement de Base de données <h3>
         <div align="left">
