@@ -50,7 +50,7 @@
         </div>
 <h3 align="left"> Développement de Base de données <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,php,mongodb" />
+            <img src="https://skillicons.dev/icons?i=mysql,php" />
         </div>
 <h3 align="left"> Framework <h3>
         <div align="left">
