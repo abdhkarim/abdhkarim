@@ -38,7 +38,7 @@
 <br/>
 <h3 align="left"> Langages de programmation <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,bash,tailwind,git,r" />
+            <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,bash" />
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
