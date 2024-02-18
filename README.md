@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous+!+👋;+Bienvenue+Sur+Mon+Github+!" />
 </h1>
 
-<h3 align="center">Un simple étudiant autodidacte !</h3>
+<h3 align="center">Un simple étudiant</h3>
 
 <br/>
 <div align="center">
@@ -20,7 +20,7 @@
 
  </div> <br>
  
-<div align="center">💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé **Node.js, React, C, C++, Python ou autre** ↓ ↓ ↓ ici ↓ ↓ ↓  </div>
+<div align="center">💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé !  </div>
 <br>
  <div align="center"> 
   <a href="mailto:karimabdallah-pro@outlook.fr">
