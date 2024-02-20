@@ -35,7 +35,7 @@
 <br/>
 <h3 align="left"> Langages de programmation industriel <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=c,cpp,arduino,bash" />
+            <img src="https://skillicons.dev/icons?i=c,arduino,bash" />
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
