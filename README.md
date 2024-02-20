@@ -10,17 +10,14 @@
 <br/>
 <div align="center">
  
- 🔭 Actuellement sur un projet **TOP SECRET 🛑**
- 
- 🌱 J'apprends actuellement de mon côté à développer mes compétences en cybersécurité avec pas mal d'outils comme **... (un magicien ne devoile jamais ses secrets)** et en développement web avec plusieurs langages tels que le **React, le JavaScript et j'en passe** 
+ 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools like **.... (a magician never reveals his secrets)** and in web development with several languages such as **React, JavaScript and so on**. 
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
-⚡ **Jouer aux échecs (+600 élos... je suis a peine debutant soyez indulgents !), jouer à FIFA, au foot et coder**
 
  </div> <br>
  
-<div align="center">💬 Si vous avez des questions à me poser n'hesitez pas à me solliciter pour les langages que j'ai déjà utilisé !  </div>
+<div align="center">💬 If you have any questions, please do not hesitate to contact me ! </div>
 <br>
  <div align="center"> 
   <a href="mailto:karimabdallah-pro@outlook.fr">
@@ -42,7 +39,7 @@
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+            <img src="https://skillicons.dev/icons?i=html,css,js" />
         </div>
 <h3 align="left"> Développement de Back-end <h3>
         <div align="left">
@@ -54,7 +51,7 @@
         </div>
 <h3 align="left"> Framework <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=django,laravel" />
+            <img src="https://skillicons.dev/icons?i=react,laravel" />
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
