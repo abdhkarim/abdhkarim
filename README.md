@@ -43,19 +43,19 @@
         </div>
 <h3 align="left"> Développement de Back-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=py,nodejs,express,nginx,mongodb" />
+            <img src="https://skillicons.dev/icons?i=py,cpp,ruby" />
         </div>
 <h3 align="left"> Développement de Base de données <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,php" />
+            <img src="https://skillicons.dev/icons?i=mysql,php,oracle" />
         </div>
 <h3 align="left"> Framework <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,laravel" />
+            <img src="https://skillicons.dev/icons?i=react,laravel,nginx" />
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=vscode,matlab,postman,blender,github,git,ai,linux" />
+            <img src="https://skillicons.dev/icons?i=vscode,matlab,postman,blender,github,git,ai" />
         </div>
 
 <br>  
