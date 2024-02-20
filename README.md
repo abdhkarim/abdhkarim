@@ -42,7 +42,7 @@
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,html,css,js,figma" />
+            <img src="https://skillicons.dev/icons?i=react,html,css,js" />
         </div>
 <h3 align="left"> Développement de Back-end <h3>
         <div align="left">
