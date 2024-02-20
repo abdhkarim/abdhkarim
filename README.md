@@ -36,9 +36,9 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Autres ⚒️</h2>
 <br/>
-<h3 align="left"> Langages de programmation <h3>
+<h3 align="left"> Langages de programmation industriel <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,bash" />
+            <img src="https://skillicons.dev/icons?i=c,cpp,arduino,bash" />
         </div>
 <h3 align="left"> Développement de Front-end <h3>
         <div align="left">
