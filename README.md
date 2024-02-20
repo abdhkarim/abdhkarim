@@ -55,7 +55,7 @@
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=vscode,matlab,postman,blender,github,ai,figma" />
+            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,ai,figma" />
         </div>
 
 <br>  
