@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
  
- 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools like **.... (a magician never reveals his secrets)** and in web development with several languages such as **React, JavaScript and so on**. 
+ 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools and in web development with several languages such as **React, JavaScript and so on**. 
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
