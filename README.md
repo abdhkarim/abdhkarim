@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
  
- 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools and in web development with several languages such as **React, JavaScript and so on**. 
+ 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools and in web development with several languag. 
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
@@ -31,31 +31,24 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Autres ⚒️</h2>
+<h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <h3 align="left"> Langages de programmation industriel <h3>
         <div align="left">
             <img src="https://skillicons.dev/icons?i=c,arduino,bash" />
         </div>
-<h3 align="left"> Développement de Front-end <h3>
+<h3 align="left"> Développement Web <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,ruby,php,mysql,oracle,react,mongodb" />
         </div>
-<h3 align="left"> Développement de Back-end <h3>
+<h3 align="left"> Logiciel <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=py,cpp,ruby" />
+            <img src="https://skillicons.dev/icons?i=java,cpp,c,py,cpp,ruby,php,mysql,oracle,react" />
         </div>
-<h3 align="left"> Développement de Base de données <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=mysql,php,oracle" />
-        </div>
-<h3 align="left"> Framework <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=react,laravel,nginx" />
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,ai,figma" />
+            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,overleaf,vscode,figma" />
         </div>
 
 <br>  
