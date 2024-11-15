@@ -5,13 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous+!+👋;+Bienvenue+Sur+Mon+Github+!" />
 </h1>
 
-<h3 align="center">Hi</h3>
-
 <br/>
 <div align="center">
  
  🌱 Computer science student in the field of cybersecurity. 
- </div> <br>
+ </div>
  
 <div align="center">💬 If you have any questions, please do not hesitate to contact me ! </div>
 <br>
