@@ -10,11 +10,7 @@
 <br/>
 <div align="center">
  
- 🌱 I'm currently learning in the field of cybersecurity. 
- <br> <br>
- I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
-
-
+ 🌱 Computer science student in the field of cybersecurity. 
  </div> <br>
  
 <div align="center">💬 If you have any questions, please do not hesitate to contact me ! </div>
