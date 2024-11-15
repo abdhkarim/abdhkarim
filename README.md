@@ -39,16 +39,20 @@
         </div>
 <h3 align="left"> Développement Web <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,ruby,php,mysql,react,mongodb" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,php,mysql,react,mongodb,ts" />
         </div>
 <h3 align="left"> Développement de logiciel <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=java,cpp,c,py,cpp,ruby,php,mysql,oracle,react" />
+            <img src="https://skillicons.dev/icons?i=java,cpp,c,py" />
         </div>
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma" />
+            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma,r" />
+        </div>
+<h3 align="left"> Système d'exploitations <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=linux,windows,kali,apple" />
         </div>
 
 <br>  
