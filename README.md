@@ -5,12 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous+!+👋;+Bienvenue+Sur+Mon+Github+!" />
 </h1>
 
-<h3 align="center">Un simple étudiant</h3>
+<h3 align="center">Hi</h3>
 
 <br/>
 <div align="center">
  
- 🌱 I'm currently learning on my side to develop my skills in cybersecurity with quite a few tools and in web development with several languag. 
+ 🌱 I'm currently learning in the field of cybersecurity. 
  <br> <br>
  I try also to improve my skills languages in any languages like the english, my spanish and my chinese.
 
@@ -48,7 +48,7 @@
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,overleaf,vscode,figma" />
+            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma" />
         </div>
 
 <br>  
