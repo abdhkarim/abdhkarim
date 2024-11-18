@@ -33,7 +33,7 @@
         </div>
 <h3 align="left"> Développement Web <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,php,mysql,react,mongodb,ts,express,nodejs" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,mongodb,ts,express,nodejs" />
         </div>
 <h3 align="left"> Développement de logiciel <h3>
         <div align="left">
