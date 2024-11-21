@@ -39,6 +39,9 @@
         <div align="left">
             <img src="https://skillicons.dev/icons?i=java,cpp,c,py,cmake" />
         </div>
+<h3 align="left"> Sciences des données <h3>
+        <div align="left">
+            <img src="https://skillicons.dev/icons?i=r,python" />
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
