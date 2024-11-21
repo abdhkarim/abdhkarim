@@ -45,7 +45,7 @@
         </div>
 <h3 align="left"> Logiciels <h3>
         <div align="left">
-            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma,r" />
+            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma" />
         </div>
 <h3 align="left"> Système d'exploitations <h3>
         <div align="left">
