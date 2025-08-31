@@ -1,68 +1,94 @@
-
-
 <h1 align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+A+Tous+!+👋;+Bienvenue+Sur+Mon+Github+!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Salut+👋;+Je+suis+Karim+Abdallah;Cloud+%26+Cybersecurity+Engineer;Bienvenue+sur+mon+GitHub!" />
 </h1>
 
-<br/>
+---
+
+## 👨‍💻 À propos de moi  
+
+🎓 Étudiant en **Informatique (Polytech Marseille)** & **Cybersécurité (Master FSI labellisé ANSSI)**  
+☁️ Passionné par le **Cloud Computing** & la **Sécurité des Systèmes**  
+🚀 Objectif : devenir **Cloud Solution Architect & Expert Cybersécurité**  
+🌍 Ambition : carrière internationale (Europe, Middle East, US)  
+
+---
+
+## ⚒️ Compétences Techniques  
+
+### 💻 Langages  
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c,r,bash" />
+
+### 🌐 Développement Web  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,php" />
+
+### 🛠 Logiciels & Outils  
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,blender,vscode,cmake,arduino" />
+
+### 🖥️ Systèmes  
+<img src="https://skillicons.dev/icons?i=linux,windows,apple,kali" />
+
+---
+
+## 🎓 Certifications & Formations  
+
+- ☁️ **AWS Solutions Architect – Associate (SAA-C03)** *(en cours)*  
+- ☁️ AWS Cloud Practitioner  
+- 🔐 ISO 27001 *(préparation)*  
+- 🌐 Cisco CCNA – Réseaux & Sécurité  
+- 🔑 Fortinet NSE – Sécurité Réseau  
+- 🕵️ TryHackMe – Offensive Security Labs  
+
+---
+
+## 📂 Projets Sélectionnés  
+
+- 🔒 **Pentesting WebApp** – Analyse sécurité OWASP Top 10  
+- ☁️ **Architecture AWS Multi-Tier** – Déploiement scalable & sécurisé  
+- 📊 **Machine Learning en Python/R** – Prédictions et visualisations  
+- 🛡️ **Audit Sécurité Jenkins** – Recherche de vulnérabilités CI/CD  
+
+---
+
+## ⚡ Stats GitHub  
+
 <div align="center">
- 
- 🌱 Computer science student in the field of cybersecurity. 
- </div>
- 
-<div align="center">💬 If you have any questions, please do not hesitate to contact me ! </div>
-<br>
- <div align="center"> 
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdhkarim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=abdhkarim&theme=radical&locale=fr&mode=weekly" />
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhkarim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+</div>
+
+---
+
+## 🚀 Objectifs 2025  
+
+✅ Obtenir **AWS SAA-C03** & **AWS Cloud Practitioner**  
+✅ Atteindre **990/990 au TOEIC**  
+✅ Maîtriser **Cloud Security + Offensive Security**  
+🎯 Intégrer **ESCP Business School (AST2)**  
+🎯 Alternance chez **Google Cloud en tant que Solution Architect**  
+
+---
+
+## 📫 Me Contacter  
+
+<div align="center">
   <a href="mailto:karimabdallah-pro@outlook.fr">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/karim-abdallah-0b892b1b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/karim-abdallah-0b892b1b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/abdhkarim" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/abdhkarim">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
-<h2 align="center">⚒️ Skills ⚒️</h2>
-<br/>
-<h3 align="left"> Langages de programmation industriel <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=c,arduino,bash" />
-        </div>
-<h3 align="left"> Développement Web <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,mongodb,ts,express,nodejs" />
-        </div>
-<h3 align="left"> Développement de logiciel <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=java,cpp,c,py,cmake" />
-        </div>
-<h3 align="left"> Sciences des données <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=r,python" />
-        </div>
-<h3 align="left"> Logiciels <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=matlab,postman,blender,github,vscode,figma" />
-        </div>
-<h3 align="left"> Système d'exploitations <h3>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=linux,windows,kali,apple" />
-        </div>
+---
 
-<br>  
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
+<div align="center">
   
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdhkarim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/> <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdhkarim&theme=radical&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
-  <br> <br>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhkarim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> <br>
-  
+⭐ Merci de visiter mon profil — n’hésitez pas à explorer mes dépôts et laisser une étoile !  
+
 </div>
-
-
