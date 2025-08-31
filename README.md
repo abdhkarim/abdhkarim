@@ -55,10 +55,10 @@
 - ☁️ **AWS Solutions Architect – Associate (SAA-C03)** *(in progress)*  
 - ☁️ AWS Cloud Practitioner  
 - ☁️ Google Cloud Fundamentals *(GCP)*  
-- 🔐 ISO 27001 *(preparation)*  
-- 🌐 Cisco CCNA – Networking & Security  
-- 🔑 Fortinet NSE – Network Security  
-- 🕵️ TryHackMe – Offensive Security Labs  
+- 🔐 PECB ISO 27001 *(preparation)*  
+- 🌐 Cisco CCNA – Introduction to Networking & Security  
+- 🔑 Fortinet NSE – Associate 
+- 🕵️ TryHackMe – Web Applications pentesting 
 
 ---
 
@@ -67,7 +67,7 @@
 - 🔒 **WebApp Pentesting** – OWASP Top 10 Security Analysis  
 - ☁️ **AWS Multi-Tier Architecture** – Scalable & Secure Deployment  
 - 📊 **Data Analysis & ML** – Python/R Visualization and Prediction  
-- 🛡️ **Jenkins Security Audit** – CI/CD Vulnerability Assessment  
+- 🛡️ **Jenkins Security Audit** – CI/CD Vulnerability Assessment *(in progress)* 
 
 ---
 
