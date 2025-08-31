@@ -21,6 +21,9 @@
 ### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,php" />
 
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,docker,kubernetes,jenkins" />
+
 ### 🛠 Tools & Software
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,blender,vscode,cmake,arduino" />
 
@@ -33,6 +36,7 @@
 
 - ☁️ **AWS Solutions Architect – Associate (SAA-C03)** *(in progress)*  
 - ☁️ AWS Cloud Practitioner  
+- ☁️ Google Cloud Fundamentals *(GCP)*  
 - 🔐 ISO 27001 *(preparation)*  
 - 🌐 Cisco CCNA – Networking & Security  
 - 🔑 Fortinet NSE – Network Security  
@@ -88,7 +92,5 @@
 ---
 
 <div align="center">
-  
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and leave a star ⭐  
-
+⭐ Thank you for visiting my profile! Explore my repositories and leave a star ⭐  
 </div>
