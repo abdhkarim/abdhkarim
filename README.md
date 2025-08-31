@@ -1,77 +1,77 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Salut+👋;+Je+suis+Karim+Abdallah;Cloud+%26+Cybersecurity+Engineer;Bienvenue+sur+mon+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+👋;+I’m+Karim+Abdallah;Cloud+%26+Cybersecurity+Engineer;Welcome+to+my+GitHub!" />
 </h1>
 
 ---
 
-## 👨‍💻 À propos de moi  
+## 👨‍💻 About Me  
 
-🎓 Étudiant en **Informatique (Polytech Marseille)** & **Cybersécurité (Master FSI labellisé ANSSI)**  
-☁️ Passionné par le **Cloud Computing** & la **Sécurité des Systèmes**  
-🚀 Objectif : devenir **Cloud Solution Architect & Expert Cybersécurité**  
-🌍 Ambition : carrière internationale (Europe, Middle East, US)  
+🎓 Computer Science student at **Polytech Marseille** & **Cybersecurity Master (FSI – ANSSI Certified)**  
+☁️ Passionate about **Cloud Computing** & **Information Security**  
+🚀 Goal: Become a **Cloud Solution Architect & Cybersecurity Expert**  
+🌍 Ambition: International career (Europe, Middle East, USA)  
 
 ---
 
-## ⚒️ Compétences Techniques  
+## ⚒️ Technical Skills  
 
-### 💻 Langages  
+### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=py,java,cpp,c,r,bash" />
 
-### 🌐 Développement Web  
+### 🌐 Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,php" />
 
-### 🛠 Logiciels & Outils  
+### 🛠 Tools & Software
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,blender,vscode,cmake,arduino" />
 
-### 🖥️ Systèmes  
+### 🖥️ Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali" />
 
 ---
 
-## 🎓 Certifications & Formations  
+## 🎓 Certifications  
 
-- ☁️ **AWS Solutions Architect – Associate (SAA-C03)** *(en cours)*  
+- ☁️ **AWS Solutions Architect – Associate (SAA-C03)** *(in progress)*  
 - ☁️ AWS Cloud Practitioner  
-- 🔐 ISO 27001 *(préparation)*  
-- 🌐 Cisco CCNA – Réseaux & Sécurité  
-- 🔑 Fortinet NSE – Sécurité Réseau  
+- 🔐 ISO 27001 *(preparation)*  
+- 🌐 Cisco CCNA – Networking & Security  
+- 🔑 Fortinet NSE – Network Security  
 - 🕵️ TryHackMe – Offensive Security Labs  
 
 ---
 
-## 📂 Projets Sélectionnés  
+## 📂 Featured Projects  
 
-- 🔒 **Pentesting WebApp** – Analyse sécurité OWASP Top 10  
-- ☁️ **Architecture AWS Multi-Tier** – Déploiement scalable & sécurisé  
-- 📊 **Machine Learning en Python/R** – Prédictions et visualisations  
-- 🛡️ **Audit Sécurité Jenkins** – Recherche de vulnérabilités CI/CD  
+- 🔒 **WebApp Pentesting** – OWASP Top 10 Security Analysis  
+- ☁️ **AWS Multi-Tier Architecture** – Scalable & Secure Deployment  
+- 📊 **Data Analysis & ML** – Python/R Visualization and Prediction  
+- 🛡️ **Jenkins Security Audit** – CI/CD Vulnerability Assessment  
 
 ---
 
-## ⚡ Stats GitHub  
+## ⚡ GitHub Stats  
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdhkarim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=abdhkarim&theme=radical&locale=fr&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=abdhkarim&theme=radical&locale=en&mode=weekly" />
   <br/><br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhkarim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
 </div>
 
 ---
 
-## 🚀 Objectifs 2025  
+## 🚀 2025 Goals  
 
-✅ Obtenir **AWS SAA-C03** & **AWS Cloud Practitioner**  
-✅ Atteindre **990/990 au TOEIC**  
-✅ Maîtriser **Cloud Security + Offensive Security**  
-🎯 Intégrer **ESCP Business School (AST2)**  
-🎯 Alternance chez **Google Cloud en tant que Solution Architect**  
+✅ Achieve **AWS SAA-C03 & Cloud Practitioner Certification**  
+✅ Score **990/990 in TOEIC**  
+✅ Master **Cloud Security & Offensive Security**  
+🎯 Join **ESCP Business School (AST2)**  
+🎯 Secure **Google Cloud Apprenticeship as Solution Architect**  
 
 ---
 
-## 📫 Me Contacter  
+## 📫 Contact Me  
 
 <div align="center">
   <a href="mailto:karimabdallah-pro@outlook.fr">
@@ -89,6 +89,6 @@
 
 <div align="center">
   
-⭐ Merci de visiter mon profil — n’hésitez pas à explorer mes dépôts et laisser une étoile !  
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and leave a star ⭐  
 
 </div>
