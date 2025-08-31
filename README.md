@@ -4,12 +4,25 @@
 
 ---
 
+## 📫 Contact Me  
+
+<div align="center">
+  <a href="mailto:karimabdallah-pro@outlook.fr">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/karim-abdallah-0b892b1b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdhkarim">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
 ## 👨‍💻 About Me  
 
 🎓 Computer Science student at **Polytech Marseille** & **Cybersecurity Master (FSI – ANSSI Certified)**  
 ☁️ Passionate about **Cloud Computing** & **Information Security**  
-🚀 Goal: Become a **Cloud Solution Architect & Cybersecurity Expert**  
-🌍 Ambition: International career (Europe, Middle East, USA)  
 
 ---
 
@@ -63,34 +76,4 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdhkarim&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
 </div>
 
----
 
-## 🚀 2025 Goals  
-
-✅ Achieve **AWS SAA-C03 & Cloud Practitioner Certification**  
-✅ Score **990/990 in TOEIC**  
-✅ Master **Cloud Security & Offensive Security**  
-🎯 Join **ESCP Business School (AST2)**  
-🎯 Secure **Google Cloud Apprenticeship as Solution Architect**  
-
----
-
-## 📫 Contact Me  
-
-<div align="center">
-  <a href="mailto:karimabdallah-pro@outlook.fr">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/karim-abdallah-0b892b1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/abdhkarim">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-⭐ Thank you for visiting my profile! Explore my repositories and leave a star ⭐  
-</div>
