@@ -19,10 +19,15 @@
 </div>
 
 ---
+<div align="center">
+
 ## 👨‍💻 About Me  
 
-🎓 Computer Science student at **Polytech Marseille** & **Cybersecurity Master (FSI – ANSSI Certified)**  
-☁️ Passionate about **Cloud Computing** & **Information Security**  
+🎓 Computer Science & Cybersecurity student at **Polytech Marseille**, ANSSI-certified FSI Master  
+☁️ Passionate about **Cloud Computing**, **Cybersecurity**, and **cutting-edge tech solutions**  
+🚀 Focused on building **secure, scalable, and innovative systems**
+
+</div>
 
 ---
 
